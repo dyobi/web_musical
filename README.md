@@ -28,7 +28,7 @@ You can run it via Eclipse or IntelliJ IDE
 
 <br>
 
-Make sure of checking Java version and Apache&Tomcat
+Make sure to check Java version and Apache&Tomcat
 
 <br>
 
