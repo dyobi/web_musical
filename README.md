@@ -6,7 +6,7 @@
 
 ## Preview
 
-<img src="" width="100%" title="preview" alt="preview">
+<img src="https://raw.githubusercontent.com/dyobi/WEBPJT_MUSICAL/main/web/img/PREVIEW.png?raw=true" width="100%" title="preview" alt="preview">
 
 ---
 
