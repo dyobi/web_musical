@@ -1,4 +1,4 @@
-# WEBPJT_MUSICAL
+# MUSICAL
 
 > A responsive Single Page Application(SPA) using Jsp & Java
 
