@@ -19,7 +19,7 @@ Is there anyone who wants to see this web-page?
 <br>
 
 ```shell
-git clone https://github.com/dyobi/WEBPJT_MUSICAL.git
+git clone https://github.com/dyobi/web_musical.git
 ```
 
 <br>
